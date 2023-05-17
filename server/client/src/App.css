@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  padding: 20px;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.App-header a {
+  text-decoration: none;
+  color: rgb(239, 255, 250);
+  align-items: flex-end;
+  display: flex;
+}
+
+.App-header p {
+  text-decoration: none;
+  color: rgb(239, 255, 250);
+}
+
+.App-header .logo {
+  padding: 0px 10px;
+}
+
+.App .buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.App .enter_url .enter_url_p {
+  padding-top: 100px;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.App #optsForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.App #optsForm #opt_p {
+  padding-top: 30px;
+}
+
+.App .enter_url #youtube_url {
+  width: 50%;
+  padding: 10px;
+  font-size: calc(10px + 2vmin);
+  border-color: #282c34;
+  border-style: solid;
+  align-self: center;
+}
+
+.App .enter_url #send_url {
+  width: 24%;
+  font-size: calc(10px + 2vmin);
+  padding: 12px;
+  margin: 60px 10px;
+  background: #282c34;
+  color : white;
+  border-style: none;
+  transition-duration: 0.4s;
+}
+
+.App .enter_url #send_url:hover {
+  background-color: rgb(187, 254, 234);
+  color:#282c34;
+}
+
+.App .enter_url #clear {
+  width: 24%;
+  font-size: calc(10px + 2vmin);
+  padding: 12px;
+  margin: 60px 10px;
+  background: #282c34;
+  color : white;
+  border-style: none;
+  transition-duration: 0.4s;
+}
+
+.App .enter_url #clear:hover {
+  background-color: rgb(161, 161, 161);
+  color:#282c34;
+}
+
+.App .optsForm {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App .options label {
+  padding : 8px;
+}
+
+.App .options input {
+  margin: 8px;
+}
+
+.App .optsFrom label {
+  width: fit-content;
+}
+
+.App #select_opt1 {
+  align-self: center;
+  width: 100px;
+  text-align: center;
+}
+
+.App #select_opt2 {
+  align-self: center;
+  width: 100px;
+  text-align: center;
+}
+
+.App .Loader {
+  border: 16px solid rgb(187, 254, 234);
+  border-top: 16px solid #203642; 
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 0.5s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+
+.App .Done {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App #download_btn {
+  width: 24%;
+  font-size: calc(10px + 2vmin);
+  padding: 12px;
+  margin: 10px 10px;
+  background: rgb(187, 254, 234);
+  color : #282c34;
+  border-style: none;
+  transition-duration: 0.4s;
+}
+
+.App #download_btn:hover {
+  background-color: #282c34;
+  color:white;
+}
