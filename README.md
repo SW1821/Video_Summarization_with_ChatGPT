@@ -26,30 +26,39 @@ By employing STT, we extract a text file of the caption of a video. Then, ChatGP
 
 # stacks
 <h3>Environment</h3>
+<span>
 <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/visual studio code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</span>
 
 
 <h3>Config</h3>
 <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
 <h3>Development</h3>
+<span>
 <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff"/>
+</span>
+
 <h3>AI model</h3>
 <img src="https://img.shields.io/badge/openAI-412991?style=for-the-badge&logo=openAI&logoColor=white"/>
 
 <h3>Library</h3>
+<span>
 <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
 <img src="https://img.shields.io/badge/pypi-3375a9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</span>
 
 <h3>Communication</h3>
+<span>
 <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
+</span>
 
 <br/>
 <br/>
