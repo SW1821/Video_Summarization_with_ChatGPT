@@ -1,3 +1,5 @@
+<img src="https://github.com/SW1821/Video_Summarization_with_ChatGPT/blob/main/Documents/KakaoTalk_20230918_203839117.png"/>
+
 # Video Summarization with ChatGPT
 2023.03. ~ 2023.06. <br/>
 숭실대학교 23-1학기 소프트웨어프로젝트에서 진행한 프로젝트입니다. </br>
@@ -11,6 +13,7 @@ ChatGPT와 WhisperX 를 사용하여 AI 영상 요약 모델을 구현하고, �
 `Back-end` 조수현 <a href="https://github.com/chopha">@chopha</a><br/>
 
 <hr/>
+<img src="https://github.com/SW1821/Video_Summarization_with_ChatGPT/blob/main/Documents/KakaoTalk_20230918_203234710.png?raw=true"/>
 <h4>This project summarizes Youtube video efficiently by utilizing ChatGPT.</h4>
 By employing STT, we extract a text file of the caption of a video. Then, ChatGPT summarizes it. In conclusion, it compared original caption text with condensed text by applying COS accuracy. We select parts of the text with higher accuracy to edit the video.
 
@@ -62,7 +65,7 @@ By employing STT, we extract a text file of the caption of a video. Then, ChatGP
 
 <br/>
 <br/>
-
+<br/>
 
 # Requirements
 for building running the appication you need:
