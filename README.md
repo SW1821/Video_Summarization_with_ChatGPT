@@ -14,12 +14,12 @@ ChatGPT와 WhisperX 를 사용하여 AI 영상 요약 모델을 구현하고, �
 
 <hr/>
 <img src="https://github.com/SW1821/Video_Summarization_with_ChatGPT/blob/main/Documents/KakaoTalk_20230918_203234710.png?raw=true"/>
-<h4>This project summarizes Youtube video efficiently by utilizing ChatGPT.</h4>
-By employing STT, we extract a text file of the caption of a video. Then, ChatGPT summarizes it. In conclusion, it compared original caption text with condensed text by applying COS accuracy. We select parts of the text with higher accuracy to edit the video.
+<h4>This project summarizes Youtube videos efficiently by utilizing ChatGPT.</h4>
+By applying STT model, we can extract a text file as the caption of a video. Then, ChatGPT summarizes the script. It compares original text with condensed text by applying cosine similarity measurement, and calculates each accuracy of each lines. In conclusion, We select parts of the text with higher accuracy to edit the video.
 
 <h4>The website provides service for video summarization</h4>
 <ol>
-    <li>User submits a URL of Youtube video.</li>
+    <li>User submits aYoutube video in the form of URL.</li>
     <li>AI model utilizing ChatGPT and WhisperX makes a summarized video.</li>
     <li>Website shows the result of the video. </li>
     <li>User can download it.</li>
