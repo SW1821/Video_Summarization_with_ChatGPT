@@ -19,7 +19,7 @@ By applying STT model, we can extract a text file as the caption of a video. The
 
 <h4>The website provides service for video summarization</h4>
 <ol>
-    <li>User submits aYoutube video in the form of URL.</li>
+    <li>User submits a Youtube video in the form of URL.</li>
     <li>AI model utilizing ChatGPT and WhisperX makes a summarized video.</li>
     <li>Website shows the result of the video. </li>
     <li>User can download it.</li>
